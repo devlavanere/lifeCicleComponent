@@ -1,0 +1,24 @@
+.container {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 15%;
+}
+
+.container h1 {
+    color: white;
+}
+
+.container button {
+    font-size: 2rem;
+    padding: 0.5rem;
+    margin: 5px;
+    width: 8rem;
+    border-radius: 20%;
+}
+
+.container button:hover {
+    color: white;
+    background-color:aqua;
+    transition: 2s ease-in-out;
+    border: 2px solid white;
+}

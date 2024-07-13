@@ -1,8 +1,15 @@
-# React + Vite
+# Desafio Aula 37
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1- Atualizador Automático de Notícias
 
-Currently, two official plugins are available:
+- Implementar um componente que busque automáticamente novas notícias a cada 30 segundos;
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Usando useEffect;
+
+- Deve ser importado os hooks useState e useEffect do React.
+
+## Imagem do Desafio
+
+![](./src/assets/img-desafio.png)
+
+[Visualize o projeto aqui ->](https://life-cicle-component.vercel.app/)

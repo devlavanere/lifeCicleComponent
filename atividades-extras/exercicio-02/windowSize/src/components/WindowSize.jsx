@@ -10,7 +10,7 @@ function WindowSize() {
 
         //Remove o event listener ao desmontar o componente
         return () => window.removeEventListener('resize', handleResize)
-    }, [width])
+    }, [])
 
     return (
         <div>

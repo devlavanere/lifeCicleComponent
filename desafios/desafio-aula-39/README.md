@@ -1,8 +1,12 @@
-# React + Vite
+# Desafio Aula 39
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Aplicacativo para Mudar Tema e Idioma
 
-Currently, two official plugins are available:
+Crie um aplicativo que permite aos usuários escolher e salvar suas preferências de idioma e tema (claro/escuro), usando useContext.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Imagens do Desafio
+
+![](./src/assets/img-readme-1.png)
+
+![](./src/assets/img-readme-2.png)
+

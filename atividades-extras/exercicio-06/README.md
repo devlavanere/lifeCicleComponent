@@ -1,8 +1,15 @@
-# React + Vite
+# Exercício 6: Contador com Limite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Objetivo: 
 
-Currently, two official plugins are available:
+Criar um contador que não ultrapasse um limite superior e que avise quando atingido.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Instruções:
+
+- Crie um componente chamado LimitedCounter.
+
+- Use useState para armazenar o valor do contador.
+
+- Adicione botões para incrementar e decrementar o contador.
+
+- Não permita que o contador ultrapasse o valor 10 e exiba uma mensagem quando o limite for atingido.

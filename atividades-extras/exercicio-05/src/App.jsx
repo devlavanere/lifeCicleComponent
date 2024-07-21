@@ -1,4 +1,4 @@
-import ToggleText from "../public/components/ToggleText"
+import ToggleText from "./components/ToggleText"
 
 function App() {
     return (

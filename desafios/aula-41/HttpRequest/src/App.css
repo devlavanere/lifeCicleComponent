@@ -1,0 +1,11 @@
+.container-request {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+    margin-top: 2rem;
+    padding: 6rem;
+    border: 2px solid gray;
+    box-shadow: 5px 5px 10px rgba(231, 228, 228, 0.295)
+}

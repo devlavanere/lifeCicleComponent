@@ -1,0 +1,6 @@
+1- Consumir a API TMDB em vez de OMDB no MovieSearchEngine;
+
+2- Mudar também a api mymemory para uma mais atualizada no LanguageTranslate;
+
+3- Construir um component de login para registrar e autenticar usuário
+
